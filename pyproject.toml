@@ -1,3 +1,6 @@
+[project]
+name = "generative_ai_with_lang_chain"
+version = "1.0"
 [tool.ruff]
 # Keep any non-lint settings here
 # Same as Black.
